@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d61f76bb-6fc1-4d6e-82ca-e7ed0d94ea0b": {
+      "ProjectGuid": "d61f76bb-6fc1-4d6e-82ca-e7ed0d94ea0b",
+      "DisplayName": "PasswordManager",
+      "ColorIndex": 0
+    },
+    "06ec5014-869e-44d1-af04-e608f0ec7b48": {
+      "ProjectGuid": "06ec5014-869e-44d1-af04-e608f0ec7b48",
+      "DisplayName": "HerlperLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
